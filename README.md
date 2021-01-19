@@ -21,3 +21,6 @@ TABLESPACE pg_default;
 
 ALTER TABLE public.status
     OWNER to postgres;
+
+
+Change the database properties in the .env file to connect to it 
